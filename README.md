@@ -28,7 +28,7 @@ I have also participated in projects like **Cybergamer**, a video game e-commerc
 
 ## 📫 Contact  
 - **Email:** valen@example.com  
-- **LinkedIn:** [[linkedin.com/in/valen](https://linkedin.com/in/valen)  ](https://www.linkedin.com/in/valentino-sparvoli-088846219/)
+- **LinkedIn:** https://www.linkedin.com/in/valentino-sparvoli-088846219/
 
 ---
 
@@ -64,7 +64,7 @@ También he participado en el desarrollo de proyectos como **Cybergamer**, un e-
 
 ## 📫 Contacto  
 - **Email:** valen@example.com  
-- **LinkedIn:** [linkedin.com/in/valen](https://linkedin.com/in/valen)   
+- **LinkedIn:**  https://www.linkedin.com/in/valentino-sparvoli-088846219/ 
 
 
 
